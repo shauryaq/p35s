@@ -1,1 +1,1 @@
-# p35s
+# class-35th-project
